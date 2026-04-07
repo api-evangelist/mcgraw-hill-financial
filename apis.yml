@@ -1,7 +1,12 @@
 aid: mcgraw-hill-financial
-url: https://raw.githubusercontent.com/api-evangelist/mcgraw-hill-financial/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mcgraw-hill-financial/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.mcgraw-hill-financial.com
+description: >-
+  McGraw Hill Financial was a financial information and analytics company providing
+  credit ratings, benchmarks, and analytics to global capital and commodity markets,
+  later renamed S&P Global.
