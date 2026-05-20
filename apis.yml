@@ -19,6 +19,10 @@ tags:
   - Financial Services
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/mheducation
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mcgraw-hill-financial
   - type: Website
     url: https://www.spglobal.com
 maintainers:
