@@ -17,6 +17,7 @@ tags:
   - Credit Ratings
   - Finance
   - Financial Services
+  - Fortune 500
 apis: []
 common:
   - type: GitHubOrganization
