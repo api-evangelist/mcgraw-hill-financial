@@ -6,6 +6,17 @@ description: >-
   commodity markets. The company was renamed S&P Global in 2016. No public
   developer APIs are currently documented under the McGraw Hill Financial brand.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
