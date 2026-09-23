@@ -1,7 +1,9 @@
 ---
 title: McGraw Hill Announces Participation in Upcoming Investor ...
 url: https://www.businesswire.com/news/home/20260506196147/en/McGraw-Hill-Announces-Participation-in-Upcoming-Investor-Conferences
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"McGraw Hill Financial" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: McGraw Hill Financial News and Press Releases
 url: https://www.prnewswire.com/news/mcgraw-hill-financial/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"McGraw Hill Financial" press release artificial intelligence'
 position: 4
 source: serpapi-google
