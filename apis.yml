@@ -38,7 +38,7 @@ tags:
   - Benchmarks
   - Credit Ratings
   - Finance
-  - Financial-Services
+  - Financial Services
   - Fortune 500
 tags_raw:
   - Analytics
@@ -47,6 +47,7 @@ tags_raw:
   - Finance
   - Financial Services
   - Fortune 500
+  - Financial-Services
 apis: []
 common:
   - type: DomainSecurity
